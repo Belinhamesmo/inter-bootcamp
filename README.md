@@ -2,7 +2,7 @@
 
 - clone the repository
 - run in the path where project is : `npm install`
-- next, install all the necessary dependencies:
+- next, install all the necessary dependencies in path of the project
 ---
 ## Dependencies
 
