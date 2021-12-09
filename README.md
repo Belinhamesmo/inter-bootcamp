@@ -1,12 +1,10 @@
-- Requisitos e ambiente 
+- Install
 
-- Visual Studio Code
-  Extensões:
-- Insomnia ou Postman
-
-
+- clone the repository
+- run in the path where project is : `npm install`
+- next, install all the necessary dependencies:
 ---
-Dependencias nescessárias
+Dependencies
 
 Express
 typescript -D
@@ -16,21 +14,18 @@ ts-node -D
 nodemon -D
 
 
-Criando setup Ininical - Referencias.
+Setup Reference - (PORTUGUESE ARTICLE)
 https://dev.to/melquisedecfelipe/configurando-eslint-no-node-com-express-e-typescript-58p9
 
 
 
-- Recursos nescessários na api
+What does this API?
 
+- Create a user with authentication
+- Log the user and returns they token access
+- Gives a full return of the user data (once he's authenticate) 
+- Gives a full statement of the user account
 
-- Usuário
- [ ] Cadastrar novo usuário
- [ ] Efeturar login e retornar token de acesso
-
-- PIX
- [ ] Efetuar solicitação de PIX
- [ ] Receber PIX
- 
- Regras: 
-  - quando receber um pix, salvar na tabela de transação
+- The user alwarady logged in the app, can request a PIX Key (a brazilian so fast and free transaction), send a PIX to other user (once the user has this PIX Key too)
+- And all the applications has just six routes
+- Simple, secure and awsome!
