@@ -1,10 +1,10 @@
-##Install
+## Install
 
 - clone the repository
 - run in the path where project is : `npm install`
 - next, install all the necessary dependencies:
 ---
-##Dependencies
+## Dependencies
 
 Express
 typescript -D
@@ -14,12 +14,12 @@ ts-node -D
 nodemon -D
 
 
-##Setup Reference - (PORTUGUESE ARTICLE)
+## Setup Reference - (PORTUGUESE ARTICLE)
 https://dev.to/melquisedecfelipe/configurando-eslint-no-node-com-express-e-typescript-58p9
 
 
 
-##What does this API?
+## What does this API?
 
 - Create a user with authentication
 - Log the user and returns they token access
