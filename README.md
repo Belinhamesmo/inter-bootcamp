@@ -19,7 +19,7 @@ https://dev.to/melquisedecfelipe/configurando-eslint-no-node-com-express-e-types
 
 
 
-## What does this API?
+## What does the API?
 
 - Create a user with authentication
 - Log the user and returns they token access
