@@ -29,3 +29,8 @@ https://dev.to/melquisedecfelipe/configurando-eslint-no-node-com-express-e-types
 - The user alwarady logged in the app, can request a PIX Key (a brazilian so fast and free transaction), send a PIX to other user (once the user has this PIX Key too)
 - And all the applications has just six routes
 - Simple, secure and awsome!
+
+## How can I test the API?
+
+You can use Insominia or Postman (or anything like that). 
+Once you have one of theese installed, you must test the routes, it is in the folder "routes" of the project. 
