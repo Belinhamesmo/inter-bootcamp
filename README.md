@@ -33,4 +33,4 @@ https://dev.to/melquisedecfelipe/configurando-eslint-no-node-com-express-e-types
 ## How can I test the API?
 
 You can use Insominia or Postman (or anything like that). 
-Once you have one of theese installed, you must test the routes, it is in the folder "routes" of the project. 
+Once you have one of theese installed, you must test the routes with the uri (it is in the folder "routes" of the project).
